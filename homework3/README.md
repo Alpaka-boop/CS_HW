@@ -1,0 +1,6 @@
+- `IEntity.cs` — интерфейс сущности с `Id`
+- `Repository.cs` — универсальный in-memory репозиторий
+- `Product.cs` — класс товара
+- `User.cs` — класс пользователя
+- `CollectionUtils.cs` — generic-методы для коллекций
+- `Program.cs` — проверка всех требований задания
